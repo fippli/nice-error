@@ -1,0 +1,19 @@
+{
+  "name": "@fippli/nice-error",
+  "version": "1.0.0",
+  "description": "Throw a nice error.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fippli/nice-error.git"
+  },
+  "author": "Filip Johansson, <filip.johansson@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fippli/nice-error/issues"
+  },
+  "homepage": "https://github.com/fippli/nice-error#readme"
+}
